@@ -71,4 +71,4 @@ We made the following recommendations to our client:
   
 We identified opportunities to further enhance the prediction by improving quality of the data and potentially developing separate models for luxury and antique cars as well as different types of cars.
 
-You can find the Jupyter notebook in this location: 
+You can find the Jupyter notebook in this location: https://github.com/LianaGafarova/UCBerkeleyCertificate_CarResalePrice/blob/main/prompt_II.ipynb
